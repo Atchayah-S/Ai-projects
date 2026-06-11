@@ -104,3 +104,4 @@ When generating new features, prefer:
 
 Avoid introducing heavy frameworks unless explicitly requested.
 
+#for more details, refer to the README.md file in the project repository.
